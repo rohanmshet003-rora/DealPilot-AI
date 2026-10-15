@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+.next/
+.venv/
+venv/
+__pycache__/
+.DS_Store
+coverage/
