@@ -1,0 +1,13 @@
+{
+  "name": "dealpilot-ai-workspace",
+  "version": "1.0.0",
+  "description": "DealPilot AI — Negotiate Smarter. Deal Better. Close with Confidence.",
+  "scripts": {
+    "server": "npm run dev --prefix server",
+    "client": "npm run dev --prefix client",
+    "test": "npm test --prefix server",
+    "build": "npm run build --prefix client"
+  },
+  "author": "DealPilot AI",
+  "license": "ISC"
+}
